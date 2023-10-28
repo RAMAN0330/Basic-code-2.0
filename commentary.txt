@@ -1,0 +1,2 @@
+After 1 vote is counted C is initiating the lead with 1 vote 
+In the end winner is C with vote count 110 
